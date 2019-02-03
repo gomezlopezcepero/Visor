@@ -1,0 +1,11 @@
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\bin\Debug\PracticaVisor.exe.config
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\bin\Debug\PracticaVisor.exe
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\bin\Debug\PracticaVisor.pdb
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\obj\Debug\PracticaVisor.csprojAssemblyReference.cache
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\obj\Debug\PracticaVisor.Properties.Resources.resources
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\obj\Debug\PracticaVisor.csproj.GenerateResource.cache
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\obj\Debug\PracticaVisor.csproj.CoreCompileInputs.cache
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\obj\Debug\PracticaVisor.exe
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\obj\Debug\PracticaVisor.pdb
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\obj\Debug\PracticaVisor.Form1.resources
+C:\Users\Paco\source\repos\PracticaVisor\PracticaVisor\obj\Debug\PracticaVisor.csproj.CopyComplete
